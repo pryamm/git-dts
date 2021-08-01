@@ -1,4 +1,11 @@
-product owner sebagai penanggung jawab dari project yg sedang di kembangkan
-Membuat perencanaan,Memperhatikan kualitas pada setiap sprint yang diselesaikan,
-Melakukan perubahan yangbersifat adaptif padaperencanaan yang telah ditentukan sebelumnya.
-Berkomitmen untuk bersikap profesional antara satud engan lainnya.
+
+peran product owner, developer dan scrum master
+A. Peran Product owner sebagai penanggung jawab dari project yg sedang di kembangkan
+
+B. Peran Developer Membuat perencanaan, Memperhatikan kualitas pada setiap sprint yang diselesaikan,
+Melakukan perubahan yang bersifat adaptif pada perencanaan yang telah ditentukan sebelumnya,
+Berkomitmen untuk bersikap profesional antara satu dengan lainnya.
+
+C. Peran Scrum Master memastikan jalannya scrum terhadap suatu tim atau organisasi
+dengan cara membantu setiap yang terlibat untuk pemahaman dan penerapan kerangka kerja.
+Juga memastikan efektivitas dan produktivitas tim.

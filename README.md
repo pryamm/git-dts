@@ -1,2 +1,0 @@
-# git-dts
-git-dts
