@@ -1,0 +1,2 @@
+git pull mengambil commit terbaru dan melakukan merge dengan branch yang aktif.
+git fetch mengambil commit saja ke repository local tanpa melakukan merge secara langsung.
