@@ -1,1 +1,4 @@
-kosong
+Scrum event atau dikenal juga dengan sprint terbagi beberapa event untuk memastikan
+adanya transparansi pada setiap aktivitas. jika setiap event tidak berjalan baik 
+berdampak pada tim yang hilang kesempatan utk belajar dan beradaptasi dari kesalahan.
+event ini juga mengurangi waktu meeting yang tidak efektif.
