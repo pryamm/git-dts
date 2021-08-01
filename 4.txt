@@ -1,0 +1,2 @@
+Untuk mentrace perubahan yang dilakukan baik dari code yang berubah, orang yang merubah, waktu perubahannya, dan alasan perubahannya.
+Serta dengan vcs kita dapat dengan mudah kembali ke perubahan sebelumnya.

@@ -1,0 +1,14 @@
+git init, melakukan initial awal untuk folder yang belum memiliki repository local
+git status, melihat perubahan yang terjadi di work space dan index
+git add, memindahkan perubahan dari work space ke index
+git commit, memindahkan perubahan dari index ke repository local, menambahkan hash uniq dan pesan perubahan
+git branch, melihat seluruh list branch yang ada di repository
+git checkout, menukar branch yang aktif dengan branch yang dipilih atau kembali ke perubahan sebelumnya
+git switch, menukar branch yang aktif dengan branch yang dipilih
+
+git clone, membuat salinan repository dari repository remote ke repository local kita
+git remote add, menambah remote repository ke repository local
+git pull, mengambil commit terbaru dan melakukan merge dengan branch yang aktif
+git push, mengirimkan perubahan di repository local ke repository remote
+git fetch, mengambil commit saja ke repository local tanpa melakukan merge secara langsung.
+gIt merge, menggabungkan branch yang aktif dan branch yang dipilih
